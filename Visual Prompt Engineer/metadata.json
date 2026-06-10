@@ -1,0 +1,5 @@
+{
+  "name": "Visual Prompt Engineer",
+  "description": "An AI-powered tool that analyzes a target image to generate a highly detailed textual prompt for AI image generators, enabling style and pose transfer while preserving subject identity.",
+  "requestFramePermissions": []
+}
